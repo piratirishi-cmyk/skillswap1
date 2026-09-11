@@ -1,0 +1,19 @@
+{
+  "name": "skillswap",
+  "version": "1.0.0",
+  "type": "module",
+  "description": "SkillSwap — Peer-to-Peer Skill Barter Platform. Trade skills. Grow together.",
+  "main": "server.js",
+  "scripts": {
+    "start": "node server.js"
+  },
+  "keywords": [
+    "skill-barter",
+    "peer-to-peer",
+    "education",
+    "hackathon",
+    "vanilla-js"
+  ],
+  "author": "SkillSwap Team",
+  "license": "MIT"
+}
