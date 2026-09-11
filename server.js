@@ -66,7 +66,7 @@ const server = http.createServer((req, res) => {
   });
 });
 
-server.listen(PORT, () => {
+server.listen(PORT, "0.0.0.0", () => {
   console.log(`\n==============================================`);
   console.log(`🚀 SkillSwap Platform Live at http://localhost:${PORT}`);
   console.log(`   Trade skills. Grow together.`);
